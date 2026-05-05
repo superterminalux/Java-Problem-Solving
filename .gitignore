@@ -55,3 +55,8 @@ bin/
 hs_err_pid*
 replay_pid*
 >>>>>>> 9e88ffd73721e62266fe7685d42f37ca43423412
+
+# IntelliJ IDEA sistem dosyaları
+.idea/
+*.iml
+out/
