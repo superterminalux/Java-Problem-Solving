@@ -45,13 +45,25 @@ I use the intellij IDEA IDE for solving the problems .
 
 -----
 
-### 3. Exercise: `Q[03][NameOfQuestion].java
+### 3. Exercise: `Q[03][sumDouble].java
 
-* **Source:** [CodingBat - Warmup-1](link)
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p154485)
 * **Problem Statement:** 
+Given two int values, return their sum. Unless the two values are the same, then return double their sum. Given test cases were used and displayed on the console.
+* **Problem Logic:** The method checks if the two inputs (a and b) are equal. If they are equal, it multiplies the sum by 2; otherwise, it returns the standard sum.
+
+* **What I Achieved:** 
+* I learned how to create test cases and print their outputs side-by-side inside the `main` method.
+* **Skill Development:** Compared to my first exercises (where I used user inputs), I advanced my skills by creating automated test cases side-by-side. While keeping the old solutions as a sign of my improvement, I learned to make the code faster and more readable.
+
+-----
+
+### 4. Exercise: `Q[04][qname].java`
+* **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:**
 * **Problem Logic:** 
 
 * **What I Achieved:** 
-* 
+
 
 -----
