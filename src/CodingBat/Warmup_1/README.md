@@ -58,12 +58,9 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 4. Exercise: `Q[04][qname].java`
-* **Source:** [CodingBat - Warmup-1](link)
-* **Problem Statement:**
-* **Problem Logic:** 
-
-* **What I Achieved:** 
-
+### 4. Exercise: `Q[04][diff21].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p116624)
+* **Problem Statement:** Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.
+* **Problem Logic:** The method checks if `n` is greater than 21. If it is, the difference is multiplied by 2. Otherwise, the standard difference is returned.
 
 -----
