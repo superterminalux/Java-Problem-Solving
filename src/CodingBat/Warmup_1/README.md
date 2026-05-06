@@ -27,12 +27,31 @@ I use the intellij IDEA IDE for solving the problems .
 * I had a problem which is hard to find solution for me, so I made a search for using the solution. I created a new method for taking input and displaying the result to see the result on my IDE.
 * Also I had a problem while creating the first folders for ProblemSolving folder and integrate to github, then I solved the problem.
 * This problem was a short and easy problem for me but I had a lot of difficulties in solving it that is why I spent a lot of time on it. I improved my skills in solving this problem.
-* There was a lot of options to break the program but my target was just create the logic of solution, then I completed the program without defensive perspective.
+* There were a lot of options to break the program but my target was just create the logic of solution, then I completed the program without defensive perspective.
 
 -----
 
-### 2. Exercise: `Q[02][NameOfQuestion].java`
+### 2. Exercise: `Q[02][monkeyTrouble].java`
+
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p181646)
+* **Problem Statement:** We have two monkeys, a and b, and the parameters aSmile and bSmile indicate if each is smiling. We are in trouble if they are both smiling or if neither of them is smiling. Return true if we are in trouble.
+* **Problem Logic:** The system checks whether both monkeys are smiling or not smiling at the same time. If both conditions are the same, it means we are in trouble.
+
+
+* **What I Achieved:** 
+* Although the problem was short and simple, I spent time understanding the logic completely. 
+* I improved my programming logic and simplified the code structur
+* There were a lot of options to break the program but my target was just create the logic of solution, then I completed the program without defensive perspective.
+
+-----
+
+### 3. Exercise: `Q[03][NameOfQuestion].java
 
 * **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:** 
 * **Problem Logic:** 
-* **What I Learned:** 
+
+* **What I Achieved:** 
+* 
+
+-----
