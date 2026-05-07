@@ -65,13 +65,14 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 5. Exercise: `Q[05][name].java`
-* **Source:** [CodingBat - Warmup-1](link)
-* **Problem Statement:** z
-* **Problem Logic:** 
+### 5. Exercise: `Q[05][parrotTrouble].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p140449)
+* **Problem Statement:** We have a loud talking parrot. The "hour" parameter is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return true if we are in trouble.
+* **Problem Logic:** The method evaluates two conditions: the parrot must be talking, and the time must be outside the safe hours (between 7 and 20). If the parrot talks during "trouble hours" (before 7:00 or after 20:00), it returns true.
 
 
 * **What I Achieved:** 
+* In my first try, I used to forget to add static keyword to the main method which has using. Then I tried to see results for test cases but I didn't see the results. Then I added the 'static' then problem was solved. 
 
 -----
 
