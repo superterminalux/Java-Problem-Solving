@@ -64,3 +64,43 @@ Given two int values, return their sum. Unless the two values are the same, then
 * **Problem Logic:** The method checks if `n` is greater than 21. If it is, the difference is multiplied by 2. Otherwise, the standard difference is returned.
 
 -----
+
+### 5. Exercise: `Q[05][name].java`
+* **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:** z
+* **Problem Logic:** 
+
+
+* **What I Achieved:** 
+
+-----
+
+### 6. Exercise: `Q[06][title].java`
+* **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:** 
+* **Problem Logic:** 
+
+
+* **What I Achieved:** 
+
+-----
+
+### 7. Exercise: `Q[07][title].java`
+* **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:** 
+* **Problem Logic:** 
+
+
+* **What I Achieved:** 
+
+-----
+
+### 8. Exercise: `Q[08][title].java`
+* **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:** 
+* **Problem Logic:** 
+
+
+* **What I Achieved:** 
+
+-----
