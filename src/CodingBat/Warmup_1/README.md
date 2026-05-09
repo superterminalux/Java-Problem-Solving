@@ -98,12 +98,13 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 8. Exercise: `Q[08][title].java`
-* **Source:** [CodingBat - Warmup-1](link)
-* **Problem Statement:** 
-* **Problem Logic:** 
+### 8. Exercise: `Q[08][posNeg].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p159227)
+* **Problem Statement:**
+  Given 2 int values, return true if one is negative and one is positive. Except if the parameter "negative" is true, then return true only if both are negative. 
 
 
 * **What I Achieved:** 
+* I forgot to add the 'static' keyword to the main method. I took an error message and I corrected it.
 
 -----
