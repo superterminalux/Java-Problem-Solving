@@ -76,14 +76,14 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 6. Exercise: `Q[06][title].java`
-* **Source:** [CodingBat - Warmup-1](link)
-* **Problem Statement:** 
-* **Problem Logic:** 
+### 6. Exercise: `Q[06][makes10].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p182873)
+* **Problem Statement:** Given 2 ints, a and b, return true if one if them is 10 or if their sum is 10.
+* **Problem Logic:** Given 2 ints, a and b, return true if one if them is 10 or if their sum is 10.
 
 
 * **What I Achieved:** 
-
+* I cpmleted the problem easily and correctly. 
 -----
 
 ### 7. Exercise: `Q[07][title].java`
