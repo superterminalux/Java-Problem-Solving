@@ -83,16 +83,18 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 
 * **What I Achieved:** 
-* I cpmleted the problem easily and correctly. 
+* I copmleted the problem easily and correctly. 
+* 
 -----
 
-### 7. Exercise: `Q[07][title].java`
-* **Source:** [CodingBat - Warmup-1](link)
-* **Problem Statement:** 
-* **Problem Logic:** 
+### 7. Exercise: `Q[07][nearHundred].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p184004)
+* **Problem Statement:** Given an int n, return true if it is within 10 of 100 or 200. Note: Math.abs(num) computes the absolute value of a number.  
 
 
 * **What I Achieved:** 
+* The task required me to to use 'Math.abs()' method to get the absolute value of the number. I learned how to use the 'mat.abs()' method.
+* Creating the logic was different from the previous exercises and my general using of the statements.
 
 -----
 
