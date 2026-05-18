@@ -1,6 +1,6 @@
 package CodingBat.Warmup_1;
 
-public class Q7nearHundred {
+public class Q07nearHundred {
 
     //The problem solving method.
     public static boolean nearHundred(int n) {

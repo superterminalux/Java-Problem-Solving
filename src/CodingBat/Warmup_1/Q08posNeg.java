@@ -1,6 +1,6 @@
 package CodingBat.Warmup_1;
 
-public class Q8posNeg {
+public class Q08posNeg {
 
     //Solving method of the problem.
     public static boolean posNeg(int a, int b, boolean negative) {

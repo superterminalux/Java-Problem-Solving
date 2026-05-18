@@ -84,7 +84,7 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 * **What I Achieved:** 
 * I copmleted the problem easily and correctly. 
-* 
+
 -----
 
 ### 7. Exercise: `Q[07][nearHundred].java`
@@ -106,5 +106,70 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 * **What I Achieved:** 
 * I forgot to add the 'static' keyword to the main method. I took an error message and I corrected it.
+
+-----
+
+### 9. Exercise: `Q[09][notString].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p191914)
+* **Problem Statement:** Given a string, return a new string where "not " has been added to the front. However, if the string already begins with "not", return the string unchanged. Note: use .equals() to compare 2 strings.
+
+
+* **What I Achieved:** 
+* I learned to use '.equals()' method to compare two strings.
+* I learned to use the '.substring()' method to get a substring from a string. Also I learned to combine it with another method to get a new string.
+
+-----
+
+### 10. Exercise: `Q[10][title].java`
+* **Source:** [CodingBat - Warmup-1](link)
+* **Problem Statement:**
+
+
+* **What I Achieved:** 
+
+-----
+
+### 11. Exercise: `Q[11][title11].java`
+* **Source:** [CodingBat - Warmup-1](link11)
+* **Problem Statement:**
+
+
+* **What I Achieved:** 
+
+-----
+
+### 12. Exercise: `Q[12][title12].java`
+* **Source:** [CodingBat - Warmup-1](link12)
+* **Problem Statement:**
+
+
+* **What I Achieved:**
+
+-----
+
+### 13. Exercise: `Q[13][title13].java`
+* **Source:** [CodingBat - Warmup-1](link13)
+* **Problem Statement:**
+
+
+* **What I Achieved:** 
+
+-----
+
+### 14. Exercise: `Q[14][title14].java`
+* **Source:** [CodingBat - Warmup-1](link14)
+* **Problem Statement:**
+
+
+* **What I Achieved:** 
+
+-----
+
+### 15. Exercise: `Q[15][title15].java`
+* **Source:** [CodingBat - Warmup-1](link15)
+* **Problem Statement:**
+
+
+* **What I Achieved:** 
 
 -----
