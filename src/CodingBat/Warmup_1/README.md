@@ -120,12 +120,13 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 10. Exercise: `Q[10][title].java`
-* **Source:** [CodingBat - Warmup-1](link)
-* **Problem Statement:**
+### 10. Exercise: `Q[10][missingChar].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p190570)
+* **Problem Statement:** Given a non-empty string and an int n, return a new string where the char at index n has been removed. The value of n will be a valid index of a char in the original string (i.e. n will be in the range 0..str.length()-1 inclusive).
 
 
-* **What I Achieved:** 
+* **What I Achieved:**
+* I learned to bypass a specific index of a string by splitting. Then I learned to combine it with another splitted string to get a new string.
 
 -----
 
