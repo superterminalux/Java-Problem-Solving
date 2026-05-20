@@ -130,21 +130,23 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 11. Exercise: `Q[11][title11].java`
-* **Source:** [CodingBat - Warmup-1](link11)
-* **Problem Statement:**
+### 11. Exercise: `Q[11][frontBack].java`
+* **Source:** [CodingBat - Warmup-1](http://codingbat.com/prob/p123384)
+* **Problem Statement:** 
 
 
 * **What I Achieved:** 
+* Divided the string into three logical parts: `first`, `middle`, and `last`, then combined them in a new order.
 
 -----
 
 ### 12. Exercise: `Q[12][title12].java`
 * **Source:** [CodingBat - Warmup-1](link12)
-* **Problem Statement:**
+* **Problem Statement:** Given a string, return a new string where the first and last chars have been exchanged.
 
 
 * **What I Achieved:**
+* 
 
 -----
 
