@@ -140,13 +140,14 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 12. Exercise: `Q[12][title12].java`
-* **Source:** [CodingBat - Warmup-1](link12)
-* **Problem Statement:** Given a string, return a new string where the first and last chars have been exchanged.
+### 12. Exercise: `Q[12][front3].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p136351)
+* **Problem Statement:** Given a string, we'll say that the front is the first 3 chars of the string. If the string length is less than 3, the front is whatever is there. Return a new string which is 3 copies of the front.
 
 
 * **What I Achieved:**
-* 
+* I used conditional checking to handle strings with less than 3 characters.
+* I practiced using the 'substring()' method to get a substring from a string.
 
 -----
 
