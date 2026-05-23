@@ -151,12 +151,13 @@ Given two int values, return their sum. Unless the two values are the same, then
 
 -----
 
-### 13. Exercise: `Q[13][title13].java`
-* **Source:** [CodingBat - Warmup-1](link13)
-* **Problem Statement:**
+### 13. Exercise: `Q[13][backAround].java`
+* **Source:** [CodingBat - Warmup-1](https://codingbat.com/prob/p161642)
+* **Problem Statement:** Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt". The original string will be length 1 or more.
 
 
 * **What I Achieved:** 
+* I practiced using the 'substring()' method to get a substring from a string.
 
 -----
 
